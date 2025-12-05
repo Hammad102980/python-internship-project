@@ -1,0 +1,8 @@
+{
+  "greetings": ["hello", "hi", "hey", "good morning", "good evening"],
+  "goodbye": ["bye", "goodbye", "see you", "exit", "quit"],
+  "how_are_you": ["how are you", "how do you do"],
+  "name": ["what is your name", "who are you", "your name"],
+  "help": ["help", "assist", "support"],
+  "thanks": ["thank you", "thanks", "appreciate"]
+}
